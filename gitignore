@@ -1,0 +1,8 @@
+# Ignorer node_modules
+node_modules/
+
+# Autres fichiers ou dossiers à ignorer
+.env
+dist/
+coverage/
+.DS_Store
