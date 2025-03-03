@@ -1,5 +1,6 @@
 node_modules/
 .env
-
+projector-management/node_modules/
+projector-management/.env
 
 
